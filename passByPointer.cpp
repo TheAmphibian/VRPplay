@@ -18,8 +18,8 @@
 using namespace std;
 bool validateValues(int, int, int);
 int findMin(int*, int*, int*);	// OKAY SO DONT "RETURN BY POINTER",
-								// RETURN AN INT VALUE NOT POINTER,
-								// ONLY PASS BY POINTER.
+				// RETURN AN INT VALUE NOT POINTER,
+				// ONLY PASS BY POINTER.
 int findMax(int*, int*, int*);
 int isMid(int*, int*, int*, int*, int*);
 void displayReport(int*, int*, int*);
